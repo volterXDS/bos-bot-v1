@@ -1,0 +1,22 @@
+{
+  "name": "vpsterizm",
+  "version": "3.0.0",
+  "description": "vpsterizm V13 Bos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "vpsterizm",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "16.6.0"
+  },
+  "dependencies": {
+    "discord.js": "^13.5.1",
+    "fs": "^0.0.1-security",
+    "quick.db": "^9.1.7"
+  }
+}
